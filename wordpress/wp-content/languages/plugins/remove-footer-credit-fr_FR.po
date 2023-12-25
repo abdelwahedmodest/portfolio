@@ -1,0 +1,178 @@
+# Translation of Plugins - Remove Footer Credit - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Remove Footer Credit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-06 07:24:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Remove Footer Credit - Stable (latest release)\n"
+
+#: sections/plugins.php:30
+msgid "KB Support is the ultimate WordPress plugin for providing support and help desk services to your customers."
+msgstr "KB Support est l’extension WordPress ultime pour fournir des services de support et d’assistance à vos clients."
+
+#: sections/plugins.php:29
+msgid "KB Support – WordPress Help Desk"
+msgstr "KB Support – WordPress Help Desk"
+
+#: sections/plugins.php:24
+msgid "Check & Log email allows you to test if your WordPress installation is sending emails correctly and logs every email."
+msgstr "Check & Log email vous permet de tester si votre installation WordPress envoie correctement des e-mails et journalise chaque e-mail."
+
+#: sections/plugins.php:23
+msgid "Check & Log Email"
+msgstr "Check & Log Email"
+
+#: sections/plugins.php:18
+msgid "Download Monitor provides an interface for uploading and managing downloadable files (including support for multiple versions), inserting download links into posts, logging downloads and selling downloads!"
+msgstr "Download Monitor fournit une interface pour le téléversement et la gestion de fichiers téléchargeables (y compris la prise en charge de versions multiples), l’insertion de liens de téléchargement dans les publications, la journalisation  et la vente de téléchargements !"
+
+#: sections/plugins.php:17
+msgid "Download Monitor"
+msgstr "Download Monitor"
+
+#: sections/plugins.php:12
+msgid "Easily collect and display testimonials on your website"
+msgstr "Collectez et affichez facilement des témoignages sur votre site"
+
+#: sections/plugins.php:11
+msgid "Strong Testimonials"
+msgstr "Strong Testimonials"
+
+#. Author URI of the plugin
+msgid "https://wpchill.com"
+msgstr "https://wpchill.com"
+
+#. Author of the plugin
+msgid "WPChill"
+msgstr "WPChill"
+
+#. Translators: Welcome Screen Description.
+#: remove-footer-credit.php:194
+msgid "Remove or replace footer credits (or any text or HTML in page) before page is rendered. With this plugin there is no need to modify code such as footer.php which if done incorrectly can cause your site to break or new theme updates will stomp over your changes requiring you to remove footer credits on each update."
+msgstr "Retirez ou remplacez les crédits de pied de page (ou tout texte ou code HTML dans la page) avant le rendu de celle-ci. Avec cette extension, il n’est aucunement besoin de modifier le code tel que footer.php qui, si incorrectement réalisé, peut entraîner un dysfonctionnement de votre site, ou que de nouvelles mises à jour de thème écrasent vos modifications, vous obligeant à supprimer les crédits de pied de page à chaque mise à jour."
+
+#: remove-footer-credit.php:181
+msgid "Settings Saved"
+msgstr "Réglages enregistrés"
+
+#: remove-footer-credit.php:126
+msgid "MachoThemes.com"
+msgstr "MachoThemes.com"
+
+#: remove-footer-credit.php:126
+msgid "Get WordPress help, plugins, themes and tips at "
+msgstr "Obtenez de l’aide sur WordPress, des extensions, des thèmes et des conseils sur "
+
+#: remove-footer-credit.php:63
+msgid "Other Great Plugins"
+msgstr "Autres excellentes extensions"
+
+#: remove-footer-credit.php:59
+msgid "Settings"
+msgstr "Réglages"
+
+#: sections/plugins.php:94
+msgid "Find out more"
+msgstr "En savoir plus"
+
+#: sections/plugins.php:71
+msgid "Activate"
+msgstr "Activer"
+
+#: sections/plugins.php:67 sections/plugins.php:92
+msgid "Activated"
+msgstr "Activé"
+
+#: sections/plugins.php:58
+msgid "Install & Activate"
+msgstr "Installer et activer"
+
+#: sections/plugins.php:6
+msgid "Modula is currently the easiest and fastest photo gallery plugin for WordPress. With its wizard you are able to build an image gallery in a few seconds, unlike many other WordPress gallery plugins."
+msgstr "Modula est actuellement l’extension de galerie photo la plus simple et la plus rapide pour WordPress. Avec son assistant, vous pouvez créer une galerie d’images en quelques secondes, contrairement à de nombreuses autres extensions de galerie WordPress."
+
+#: sections/plugins.php:5
+msgid "Modula - A WordPress Gallery Plugin"
+msgstr "Modula - Une extension de galerie WordPress"
+
+#: sections/plugin-info.php:13
+msgid "to view instructions on how to use this plugin."
+msgstr "pour voir les instructions d’utilisation de cette extension."
+
+#: sections/plugin-info.php:13
+msgid "Click here"
+msgstr "Cliquer ici"
+
+#: sections/plugin-info.php:12
+msgid "Learn"
+msgstr "Découvrir"
+
+#: sections/plugin-info.php:10
+msgid "here"
+msgstr "ici"
+
+#: sections/plugin-info.php:10
+msgid "Need help using this plugin or want to report a bug? Contact me"
+msgstr "Vous avez besoin d’aide pour utiliser cette extension ou souhaitez signaler un bogue ? Contactez moi"
+
+#: remove-footer-credit.php:67 sections/plugin-info.php:9
+msgid "Get Help"
+msgstr "Obtenir de l’aide"
+
+#: sections/settings.php:55
+msgid "Get WordPress help, plugins, themes and tips at"
+msgstr "Obtenez de l’aide, des extensions, des thèmes et des conseils WordPress sur"
+
+#: sections/settings.php:54
+msgid "The text below will appear at the bottom of the selected post/page."
+msgstr "Le texte ci-dessous apparaîtra au bas de l’article ou de la page sélectionné(e)."
+
+#: sections/settings.php:46
+msgid "-- Pages --"
+msgstr "-- Pages --"
+
+#: sections/settings.php:40
+msgid "-- Posts --"
+msgstr "-- Articles --"
+
+#: sections/settings.php:37
+msgid "Select a post/page:"
+msgstr "Sélectionner un article/une page :"
+
+#: sections/settings.php:14
+msgid "Yes, I will support you!"
+msgstr "Oui, je vous soutiendrai !"
+
+#: sections/settings.php:13
+msgid "No, thanks."
+msgstr "Non, merci."
+
+#: sections/settings.php:12
+msgid "Help keep this plugin free by providing one link back at the bottom of one of your posts/pages."
+msgstr "Aidez à maintenir cette extension gratuite en fournissant un lien de retour au bas de l’une de vos publications."
+
+#: sections/settings.php:11
+msgid "Step 3: Please support my work and spread the word (optional)"
+msgstr "Étape3 : veuillez supporter mon travail et faites passer le mot (facultatif)"
+
+#: sections/settings.php:9
+msgid "Step 2: Enter your own footer credit (one per line)"
+msgstr "Étape 2 : saisissez votre propre crédit de pied de page (un par ligne)"
+
+#: sections/settings.php:7
+msgid "Step 1: Enter text/HTML to remove (one per line)"
+msgstr "Étape 1 : saisir le texte/HTML à retirer (un par ligne)"
+
+#. Description of the plugin
+msgid "A simple plugin to remove footer credits"
+msgstr "Une extension simple pour retirer les crédits de pied de page"
+
+#. Plugin Name of the plugin
+#: remove-footer-credit.php:135 remove-footer-credit.php:191
+msgid "Remove Footer Credit"
+msgstr "Remove Footer Credit"
