@@ -1,0 +1,14 @@
+
+
+
+POUR   LANCER    CE   PROJET   PORTFOLIO    DE WORDPRESS :
+
+------------------>cmd
+$>wsl
+£>cd  ~
+£>docker-compose  up  -d
+
+POUR  STOPPER  LES  IMAGES  ET  QUITTER  LE  PROJET  :
+
+------------------->cmd
+£>docker-compose down
